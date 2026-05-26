@@ -66,9 +66,6 @@ Ecommerce-Sales-Analysis/
 ├── notebooks/
 │   └── ecommerce_sales_analysis.ipynb
 │
-├── reports/
-│   └── Ecommerce_Sales_Analysis.pdf
-│
 └── README.md
 ```
 
