@@ -26,12 +26,12 @@ This project focuses on analyzing Ecommerce Sales Data to uncover meaningful bus
 
 The analysis includes:
 
- Monthly Sales Analysis  
- Profit Analysis  
- Category Performance  
- Customer Segment Analysis  
- Sales-to-Profit Ratio  
- Interactive Visualizations
+✅ Monthly Sales Analysis  
+✅ Profit Analysis  
+✅ Category Performance  
+✅ Customer Segment Analysis  
+✅ Sales-to-Profit Ratio  
+✅ Interactive Visualizations
 
 The project was built using Python, Pandas and Plotly with a intractive dashboard using HTML, CSS and JavaScript.
 
@@ -53,23 +53,27 @@ The goal of this project is to analyze ecommerce sales performance and identify:
 #  Project Structure
 
 ```bash
-Ecommerce-Sales-Analysis/
-│
-├── data/
-│   └── Sample-Superstore.csv
+E-Commerce-Sales-Analysis/
+---
 │
 ├── dashboard/
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
 │
-├── notebooks/
+├── data/
+│   └── Sample-Superstore.csv
+│
+├── notebook/
 │   └── ecommerce_sales_analysis.ipynb
+│
+├── reports/
+│   └── Ecommerce_Sales_Analysis.pdf
 │
 └── README.md
 ```
 
-
+---
 
 #  Technologies Used
 
@@ -122,7 +126,7 @@ Analyzed monthly sales trends to identify peak-performing months.
 
 
 
-##  Sales Analysis by Category
+## 🥧 Sales Analysis by Category
 
 Compared category-wise sales contribution across:
 
@@ -184,8 +188,19 @@ Compared sales and profits across:
  Professional Layout  
  GitHub Portfolio Ready
 
+---
 
-# How to Run the Project
+# 🖼️ Dashboard Preview
+
+<div align="center">
+
+<img src="images/dashboard-preview.png" width="900">
+
+</div>
+
+---
+
+# ⚙️ How to Run the Project
 
 ## 1️ Clone Repository
 
@@ -194,10 +209,10 @@ git clone YOUR_GITHUB_REPOSITORY_LINK
 ```
 
 
-## 2️ Open Project in VS Code
+## 2️⃣ Open Project in VS Code
 
 ```bash
-cd Ecommerce-Sales-Analysis
+cd E-Commerce-Sales-Analysis
 ```
 
 
@@ -218,7 +233,7 @@ jupyter notebook
 
 
 
-## 5️ Run Dashboard
+## 5️⃣ Run Dashboard
 
 Open:
 
@@ -252,12 +267,12 @@ The project also includes feature engineering such as:
 
 #  Project Highlights
 
- 1 Data Cleaning  
- 2 Feature Engineering  
- 3 Exploratory Data Analysis  
- 4 Business Insights  
- 5 Interactive Visualizations  
- 6 Dashboard Development
+✅ Data Cleaning  
+✅ Feature Engineering  
+✅ Exploratory Data Analysis  
+✅ Business Insights  
+✅ Interactive Visualizations  
+✅ Dashboard Development
 
 The project includes multiple Plotly visualizations such as line charts, pie charts and bar charts. :contentReference[oaicite:1]{index=1}
 
