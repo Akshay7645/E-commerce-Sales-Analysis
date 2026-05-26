@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 Ecommerce Sales Analysis Dashboard
+#  Ecommerce Sales Analysis Dashboard
 
 ### Interactive Data Analysis Project using Python, Pandas & Plotly
 
@@ -18,26 +18,26 @@
 
 </div>
 
----
 
-# 🚀 Project Overview
+
+#  Project Overview
 
 This project focuses on analyzing Ecommerce Sales Data to uncover meaningful business insights using data analysis and visualization techniques.
 
 The analysis includes:
 
-✅ Monthly Sales Analysis  
-✅ Profit Analysis  
-✅ Category Performance  
-✅ Customer Segment Analysis  
-✅ Sales-to-Profit Ratio  
-✅ Interactive Visualizations
+ Monthly Sales Analysis  
+ Profit Analysis  
+ Category Performance  
+ Customer Segment Analysis  
+ Sales-to-Profit Ratio  
+ Interactive Visualizations
 
 The project was built using Python, Pandas and Plotly with a intractive dashboard using HTML, CSS and JavaScript.
 
----
 
-# 📌 Business Problem
+
+#  Business Problem
 
 Businesses generate huge amounts of sales data every day.  
 The goal of this project is to analyze ecommerce sales performance and identify:
@@ -48,9 +48,9 @@ The goal of this project is to analyze ecommerce sales performance and identify:
 - Customer segment contribution
 - Loss-making sub-categories
 
----
 
-# 📂 Project Structure
+
+#  Project Structure
 
 ```bash
 Ecommerce-Sales-Analysis/
@@ -69,9 +69,9 @@ Ecommerce-Sales-Analysis/
 └── README.md
 ```
 
----
 
-# 🛠️ Technologies Used
+
+#  Technologies Used
 
 <table align="center">
 
@@ -112,17 +112,17 @@ Ecommerce-Sales-Analysis/
 
 </table>
 
----
 
-# 📈 Key Analysis Performed
 
-## 📊 Monthly Sales Analysis
+#  Key Analysis Performed
+
+##  Monthly Sales Analysis
 
 Analyzed monthly sales trends to identify peak-performing months.
 
----
 
-## 🥧 Sales Analysis by Category
+
+##  Sales Analysis by Category
 
 Compared category-wise sales contribution across:
 
@@ -130,27 +130,27 @@ Compared category-wise sales contribution across:
 - Furniture
 - Office Supplies
 
----
 
-## 📉 Sales Analysis by Sub-Category
+
+##  Sales Analysis by Sub-Category
 
 Identified high and low performing sub-categories.
 
----
 
-## 💰 Monthly Profit Analysis
+
+##  Monthly Profit Analysis
 
 Analyzed profit trends across different months.
 
----
 
-## 📦 Profit Analysis by Category
+
+##  Profit Analysis by Category
 
 Compared category-wise profitability.
 
----
 
-## 👥 Customer Segment Analysis
+
+##  Customer Segment Analysis
 
 Compared sales and profits across:
 
@@ -158,68 +158,67 @@ Compared sales and profits across:
 - Corporate
 - Home Office
 
----
 
-# 🔍 Key Insights
+
+#  Key Insights
 
 <div align="center">
 
 | Insight | Observation |
 |---|---|
-| 📈 Highest Sales Category | Technology |
-| 💰 Highest Profit Month | December |
-| 👥 Best Customer Segment | Consumer |
-| 📉 Loss Making Segment | Some sub-categories showed negative profit |
+|  Highest Sales Category | Technology |
+|  Highest Profit Month | December |
+|  Best Customer Segment | Consumer |
+|  Loss Making Segment | Some sub-categories showed negative profit |
 
 </div>
 
----
 
-# 📊 Dashboard Features
 
-✅ Responsive Design  
-✅ Interactive UI  
-✅ Dark Mode Toggle  
-✅ Hover Animations  
-✅ Professional Layout  
-✅ GitHub Portfolio Ready
----
+#  Dashboard Features
 
-# ⚙️ How to Run the Project
+ Responsive Design  
+ Interactive UI  
+ Dark Mode Toggle  
+ Hover Animations  
+ Professional Layout  
+ GitHub Portfolio Ready
 
-## 1️⃣ Clone Repository
+
+# How to Run the Project
+
+## 1️ Clone Repository
 
 ```bash
 git clone YOUR_GITHUB_REPOSITORY_LINK
 ```
 
----
 
-## 2️⃣ Open Project in VS Code
+## 2️ Open Project in VS Code
 
 ```bash
 cd Ecommerce-Sales-Analysis
 ```
 
----
 
-## 3️⃣ Install Required Libraries
+
+## 3️ Install Required Libraries
 
 ```bash
 pip install -r requirements.txt
 ```
 
----
 
-## 4️⃣ Run Jupyter Notebook
+
+## 4️ Run Jupyter Notebook
 
 ```bash
 jupyter notebook
 ```
 
----
 
-## 5️⃣ Run Dashboard
+
+## 5️ Run Dashboard
 
 Open:
 
@@ -229,9 +228,9 @@ dashboard/index.html
 
 using Live Server in VS Code.
 
----
 
-# 📚 Dataset Information
+
+#  Dataset Information
 
 The dataset contains ecommerce sales records including:
 
@@ -250,22 +249,21 @@ The project also includes feature engineering such as:
 
 :contentReference[oaicite:0]{index=0}
 
----
 
-# 📌 Project Highlights
+#  Project Highlights
 
-✅ Data Cleaning  
-✅ Feature Engineering  
-✅ Exploratory Data Analysis  
-✅ Business Insights  
-✅ Interactive Visualizations  
-✅ Dashboard Development
+ 1 Data Cleaning  
+ 2 Feature Engineering  
+ 3 Exploratory Data Analysis  
+ 4 Business Insights  
+ 5 Interactive Visualizations  
+ 6 Dashboard Development
 
 The project includes multiple Plotly visualizations such as line charts, pie charts and bar charts. :contentReference[oaicite:1]{index=1}
 
----
 
-# 🌟 Future Improvements
+
+#  Future Improvements
 
 - Add Power BI Dashboard
 - Deploy using Streamlit
@@ -273,9 +271,9 @@ The project includes multiple Plotly visualizations such as line charts, pie cha
 - Add KPI Cards
 - Add SQL Integration
 
----
 
-# 👨‍💻 Author
+
+#  Author
 
 <div align="center">
 
@@ -285,11 +283,11 @@ Aspiring Data Analyst passionate about Data Analytics, Visualization and Busines
 
 </div>
 
----
+
 
 <div align="center">
 
-# ⭐ If you like this project, give it a star on GitHub ⭐
+#  If you like this project, give it a star on GitHub 
 
 # THANK YOU 
 
