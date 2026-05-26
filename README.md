@@ -183,17 +183,6 @@ Compared sales and profits across:
 ✅ Hover Animations  
 ✅ Professional Layout  
 ✅ GitHub Portfolio Ready
-
----
-
-# 🖼️ Dashboard Preview
-
-<div align="center">
-
-<img src="images/dashboard-preview.png" width="900">
-
-</div>
-
 ---
 
 # ⚙️ How to Run the Project
