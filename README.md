@@ -202,10 +202,6 @@ This analysis helped uncover sales trends, profit patterns, customer behavior, a
 
 
 
-
-
-
-
 #  Dataset Information
 
 The dataset contains ecommerce sales records including:
